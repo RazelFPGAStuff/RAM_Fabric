@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric
+Esingle_port_ram_vhdl
+Z1 w1525935315
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric/Single_port_RAM_VHDL.vhd
+Z6 FC:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric/Single_port_RAM_VHDL.vhd
+l0
+L26
+Ve@OABlmzehchG1><0eWR11
+!s100 e?0WESh9VQ5HG6ZIzAFCz1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1525935695
+!i10b 1
+Z9 !s108 1525935695.000000
+Z10 !s90 -reportprogress|300|-work|work|C:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric/Single_port_RAM_VHDL.vhd|
+Z11 !s107 C:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric/Single_port_RAM_VHDL.vhd|
+!i113 1
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 20 single_port_ram_vhdl 0 22 e@OABlmzehchG1><0eWR11
+l76
+L37
+VRlAi7Vn<[]dAPK5m1QPg?3
+!s100 hNa8KG^k:6^V39cNWS[d<2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_ram_vhdl
+Z14 w1525935693
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R3
+R4
+R0
+Z17 8C:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric/tb_RAM_VHDL.vhd
+Z18 FC:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric/tb_RAM_VHDL.vhd
+l0
+L33
+V[EzOLjfPL[hg[0Gnca6o52
+!s100 VVG;T]^TOUnC02J5_P;`C3
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|C:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric/tb_RAM_VHDL.vhd|
+Z20 !s107 C:/FPGA/FPGA 2014/vhdl_workspace/RAM_fabric/tb_RAM_VHDL.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R15
+R16
+R3
+R4
+Z21 DEx4 work 11 tb_ram_vhdl 0 22 [EzOLjfPL[hg[0Gnca6o52
+l65
+L36
+V4l5EbU5@@SnGQEgEB@P=L3
+!s100 9WEGa2Cbz6LSQCDd=TY0O3
+R7
+32
+R8
+!i10b 1
+R9
+R19
+R20
+!i113 1
+R12
+R13
